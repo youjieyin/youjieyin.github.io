@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://youjieyin007.github.io//sitemap.xml
+Sitemap: https://youjieyin.github.io//sitemap.xml
